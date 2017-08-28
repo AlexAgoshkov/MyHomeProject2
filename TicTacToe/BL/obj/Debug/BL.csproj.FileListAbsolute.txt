@@ -1,0 +1,5 @@
+D:\C# Домашки\BL\bin\Debug\BL.dll
+D:\C# Домашки\BL\bin\Debug\BL.pdb
+D:\C# Домашки\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\C# Домашки\BL\obj\Debug\BL.dll
+D:\C# Домашки\BL\obj\Debug\BL.pdb

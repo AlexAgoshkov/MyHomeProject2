@@ -1,0 +1,23 @@
+D:\C# Домашки\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.exe.config
+D:\C# Домашки\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.exe
+D:\C# Домашки\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.pdb
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.Properties.Resources.resources
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.csproj.GenerateResource.Cache
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.exe
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.pdb
+D:\C# Домашки\WinFormTicTacToe\bin\Debug\BL.dll
+D:\C# Домашки\WinFormTicTacToe\bin\Debug\BL.pdb
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.csprojResolveAssemblyReference.cache
+D:\C# Домашки\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.WinForm.resources
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.exe.config
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.exe
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\bin\Debug\WinFormTicTacToe.pdb
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\bin\Debug\BL.dll
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\bin\Debug\BL.pdb
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.csprojResolveAssemblyReference.cache
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.WinForm.resources
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.Properties.Resources.resources
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.csproj.GenerateResource.Cache
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.exe
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.pdb
+D:\Sources\C#\C#HomeWork\WinFormTicTacToe\obj\Debug\WinFormTicTacToe.csproj.CoreCompileInputs.cache

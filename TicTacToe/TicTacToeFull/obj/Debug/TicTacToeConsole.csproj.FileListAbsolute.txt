@@ -1,0 +1,8 @@
+D:\C# Домашки\TicTacToeFull\bin\Debug\TicTacToeFull.exe.config
+D:\C# Домашки\TicTacToeFull\obj\Debug\TicTacToeFull.exe
+D:\C# Домашки\TicTacToeFull\obj\Debug\TicTacToeFull.pdb
+D:\C# Домашки\TicTacToeFull\bin\Debug\TicTacToeFull.exe
+D:\C# Домашки\TicTacToeFull\bin\Debug\TicTacToeFull.pdb
+D:\C# Домашки\TicTacToeFull\bin\Debug\BL.dll
+D:\C# Домашки\TicTacToeFull\bin\Debug\BL.pdb
+D:\C# Домашки\TicTacToeFull\obj\Debug\TicTacToeConsole.csprojResolveAssemblyReference.cache
