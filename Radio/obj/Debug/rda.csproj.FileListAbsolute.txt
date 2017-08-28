@@ -1,0 +1,13 @@
+D:\C# Домашки\rda\bin\Debug\rda.exe.config
+D:\C# Домашки\rda\bin\Debug\rda.exe
+D:\C# Домашки\rda\bin\Debug\rda.pdb
+D:\C# Домашки\rda\obj\Debug\rda.csprojResolveAssemblyReference.cache
+D:\C# Домашки\rda\obj\Debug\rda.Properties.Resources.resources
+D:\C# Домашки\rda\obj\Debug\rda.csproj.GenerateResource.Cache
+D:\C# Домашки\rda\obj\Debug\rda.exe
+D:\C# Домашки\rda\obj\Debug\rda.pdb
+D:\C# Домашки\rda\obj\Debug\Interop.MediaPlayer.dll
+D:\C# Домашки\rda\obj\Debug\Interop.WMPLib.dll
+D:\C# Домашки\rda\obj\Debug\Interop.WMPNSSCI.dll
+D:\C# Домашки\rda\obj\Debug\rda.csproj.ResolveComReference.cache
+D:\C# Домашки\rda\obj\Debug\rda.Radio.resources

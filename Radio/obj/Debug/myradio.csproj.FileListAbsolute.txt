@@ -1,0 +1,39 @@
+D:\C# Домашки\rda\bin\Debug\myradio.exe.config
+D:\C# Домашки\rda\obj\Debug\Interop.MediaPlayer.dll
+D:\C# Домашки\rda\obj\Debug\Interop.WMPLib.dll
+D:\C# Домашки\rda\obj\Debug\Interop.WMPNSSCI.dll
+D:\C# Домашки\rda\obj\Debug\myradio.csproj.ResolveComReference.cache
+D:\C# Домашки\rda\bin\Debug\myradio.exe
+D:\C# Домашки\rda\bin\Debug\myradio.pdb
+D:\C# Домашки\rda\obj\Debug\myradio.Radio.resources
+D:\C# Домашки\rda\obj\Debug\myradio.Properties.Resources.resources
+D:\C# Домашки\rda\obj\Debug\myradio.csproj.GenerateResource.Cache
+D:\C# Домашки\rda\obj\Debug\myradio.exe
+D:\C# Домашки\rda\obj\Debug\myradio.pdb
+D:\C# Домашки\rda\obj\Debug\myradio.csprojResolveAssemblyReference.cache
+D:\Sources\C#\C# Домашки\rda\bin\Debug\myradio.exe.config
+D:\Sources\C#\C# Домашки\rda\bin\Debug\myradio.exe
+D:\Sources\C#\C# Домашки\rda\bin\Debug\myradio.pdb
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.csprojResolveAssemblyReference.cache
+D:\Sources\C#\C# Домашки\rda\obj\Debug\Interop.MediaPlayer.dll
+D:\Sources\C#\C# Домашки\rda\obj\Debug\Interop.WMPLib.dll
+D:\Sources\C#\C# Домашки\rda\obj\Debug\Interop.WMPNSSCI.dll
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.csproj.ResolveComReference.cache
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.Radio.resources
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.Properties.Resources.resources
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.csproj.GenerateResource.Cache
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.exe
+D:\Sources\C#\C# Домашки\rda\obj\Debug\myradio.pdb
+D:\Sources\C#\C#HomeWork\rda\bin\Debug\myradio.exe.config
+D:\Sources\C#\C#HomeWork\rda\bin\Debug\myradio.exe
+D:\Sources\C#\C#HomeWork\rda\bin\Debug\myradio.pdb
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.csprojResolveAssemblyReference.cache
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\Interop.MediaPlayer.dll
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\Interop.WMPLib.dll
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\Interop.WMPNSSCI.dll
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.csproj.ResolveComReference.cache
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.Radio.resources
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.Properties.Resources.resources
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.csproj.GenerateResource.Cache
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.exe
+D:\Sources\C#\C#HomeWork\rda\obj\Debug\myradio.pdb
